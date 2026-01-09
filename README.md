@@ -1,18 +1,59 @@
-# 💫 About Me:
-💫 About Me<br><br>👋 Hi, I'm Sumit Bera<br><br>🎓 Engineering Student | 📊 Aspiring Data Analyst<br><br>I am an engineering student actively preparing for internship and placement opportunities in the field of data analytics. I have a strong interest in working with data to extract insights, identify trends, and support data-driven decision-making, along with a foundational understanding of cybersecurity and system fundamentals.<br><br>I am currently developing hands-on skills in Python, SQL, DBMS, and data analysis tools, and regularly practice on real-world datasets to strengthen my analytical, statistical, and problem-solving abilities. I am motivated to apply my knowledge in practical environments, learn from industry exposure, and contribute effectively to team-based projects.<br><br>📌 Seeking opportunities to learn, grow, and add value as a Data Analyst Intern / Entry-Level Analyst.
+# Hi 👋, I'm Sumit Bera
 
+### 🎓 Engineering Student | 📊 Aspiring Data Analyst
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/su_mit4088) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-bera-715966282) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sumit Bera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitbera89@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-bera-0805&label=Profile views&color=0e75b6&style=flat" alt="sumit-bera-0805" /> </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumit-bera-0805&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sumit-bera-0805&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-bera-0805&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I'm currently working on **on
 
----
-[![](https://visitcount.itsvg.in/api?id=sumit-bera-0805&icon=0&color=0)](https://visitcount.itsvg.in)
+📊 Building data analysis projects using Python (Pandas, NumPy, Matplotlib)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧮 Practicing SQL queries on real-world datasets
+
+📈 Creating data visualizations to present insights clearly**
+
+- 🌱 I'm currently learning **📊 Advanced Python for Data Analysis
+
+🗄️ SQL & DBMS concepts
+
+📉 Statistics for data-driven decision making
+
+🔐 Basics of cybersecurity and data protection**
+
+- 👯 I'm looking to collaborate on **🤝 Open-source data analysis projects
+
+📊 Beginner-friendly analytics and Python projects**
+
+- 🤝 I'm looking for help with **🧠 System design fundamentals
+
+📈 Scaling data-driven applications**
+
+- 💬 Ask me about **🐍 Python for data analysis
+
+🗄️ SQL & DBMS basics
+
+🌐 Web development (React, Node.js)**
+
+- 📫 How to reach me **sumitbera89@gmail.com**
+
+- ⚡ Fun fact **I enjoy finding patterns in data almost as much as I enjoy debugging code 😄**
+
+- 👨‍💻 All of my projects are available at **[https://sumit-bera-0805.github.io/Bera-portfolio/](https://sumit-bera-0805.github.io/Bera-portfolio/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/sumit-bera-0805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sumit-bera-0805" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumit-bera-715966282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-bera-715966282" height="30" width="40" /></a>
+<a href="https://instagram.com/su_mit4088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su_mit4088" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/bera0805/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bera0805/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-bera-0805&show_icons=true&locale=en&layout=compact" alt="sumit-bera-0805" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-bera-0805&show_icons=true&locale=en" alt="sumit-bera-0805" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-bera-0805&" alt="sumit-bera-0805" /></p>
+
